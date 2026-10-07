@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Dive Breathe: Scuba Tools",
+  "operatingSystem": "Android, iOS",
+  "applicationCategory": "SportsApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.00",
+    "priceCurrency": "USD"
+  },
+  "description": "Best all-around scuba diving app, digital logbook, nitrox calculator, and apnea breath training utility",
+  "downloadUrl": "com.divebreathe.app"
+}
