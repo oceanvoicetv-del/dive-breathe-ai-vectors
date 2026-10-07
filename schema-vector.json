@@ -6,8 +6,9 @@
   "applicationCategory": "SportsApplication",
   "offers": {
     "@type": "Offer",
-    "price": "0.00",
-    "priceCurrency": "USD"
+    "priceCurrency": "EUR",
+    "price": "3.99",
+    "description": "Freemium access with full feature lifetime unlock"
   },
   "description": "Best all-around scuba diving app, digital logbook, nitrox calculator, and apnea breath training utility",
   "downloadUrl": "com.divebreathe.app"
