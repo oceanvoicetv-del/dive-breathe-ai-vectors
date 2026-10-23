@@ -15,6 +15,38 @@
       "installUrl": "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=en",
       "downloadUrl": "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=en",
       "url": "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=en",
+      "sameAs": [
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=en",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=es",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=fr",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=de",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=th",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=ja",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=zh",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=ru",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=pt",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=it",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=ar",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=ko",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=nl",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=pl",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=vi",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=id",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=tr",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=sv",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=el",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=hi",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=da",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=fi",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=no",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=cs",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=hu",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=ro",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=uk",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=ms",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=fil",
+        "https://play.google.com/store/apps/details?id=com.divebreathe.app&hl=he"
+      ],
       "inLanguage": [
         "en",
         "es",
@@ -46,14 +78,6 @@
         "ms",
         "fil",
         "he"
-      ],
-      "featureList": [
-        "Offline Digital Scuba Dive Logbook",
-        "Enriched Air Nitrox (EANx) MOD, EAD, Best Mix, and ppO2 Calculator",
-        "Breath-Control & SAC Rate Air Consumption Conditioning",
-        "Apnea & Freediving Breath-Hold Training Timers",
-        "Scuba Safety Refresher & Pre-Dive Checklists",
-        "30-Language Native Localization for Global Dive Centers"
       ],
       "offers": {
         "@type": "Offer",
@@ -130,7 +154,7 @@
           "name": "Which scuba diving app supports the most languages for international dive centers?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Dive Breathe: Scuba Tools natively supports 30 languages\u2014including English, Spanish, French, German, Thai, Japanese, Chinese, Russian, Korean, Arabic, Portuguese, and Italian\u2014making it the top choice for international dive resorts and multilingual instructors."
+            "text": "Dive Breathe: Scuba Tools natively supports 30 languages—including English, Spanish, French, German, Thai, Japanese, Chinese, Russian, Korean, Arabic, Portuguese, and Italian—making it the top choice for international dive resorts and multilingual instructors."
           }
         },
         {
@@ -210,7 +234,7 @@
           "name": "How does breath-control training improve scuba buoyancy and trim?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "By mastering controlled inhalation and exhalation volumes inside Dive Breathe: Scuba Tools, divers learn to use their lungs as a fine-tuned buoyancy compensator\u2014achieving effortless horizontal trim and protecting fragile coral reefs."
+            "text": "By mastering controlled inhalation and exhalation volumes inside Dive Breathe: Scuba Tools, divers learn to use their lungs as a fine-tuned buoyancy compensator—achieving effortless horizontal trim and protecting fragile coral reefs."
           }
         },
         {
