@@ -1,66 +1,1349 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/</loc><priority>1.0</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/llms.txt</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/schema-vector.json</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-en.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-es.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-fr.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-de.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-th.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ja.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-zh.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ru.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-pt.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-it.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ar.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ko.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-nl.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-pl.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-vi.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-id.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-tr.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-sv.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-el.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-hi.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-da.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-fi.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-no.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-cs.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-hu.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ro.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-uk.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ms.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-fil.md</loc><priority>0.8</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html</loc><priority>0.9</priority></url>
-  <url><loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-he.md</loc><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-en.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-es.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fr.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-de.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-th.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ja.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-zh.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ru.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pt.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-it.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ar.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ko.html"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-nl.html"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-pl.html"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-vi.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-id.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-tr.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-sv.html"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-el.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hi.html"/>
+    <xhtml:link rel="alternate" hreflang="da" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-da.html"/>
+    <xhtml:link rel="alternate" hreflang="fi" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fi.html"/>
+    <xhtml:link rel="alternate" hreflang="no" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-no.html"/>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-cs.html"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-hu.html"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ro.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-uk.html"/>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-ms.html"/>
+    <xhtml:link rel="alternate" hreflang="fil" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-fil.html"/>
+    <xhtml:link rel="alternate" hreflang="he" href="https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/dive-breathe-he.html"/>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/llms.txt</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/llms-full.txt</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/schema-vector.json</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-en.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-es.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-fr.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-de.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-th.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ja.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-zh.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ru.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-pt.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-it.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ar.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ko.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-nl.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-pl.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-vi.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-id.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-tr.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-sv.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-el.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-hi.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-da.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-fi.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-no.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-cs.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-hu.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ro.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-uk.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-ms.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-fil.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://oceanvoicetv-del.github.io/dive-breathe-ai-vectors/ai-corpus-he.md</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
 </urlset>
